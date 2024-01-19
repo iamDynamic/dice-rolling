@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav h1{
+    text-transform: capitalize;
+    padding: 20px;
+    text-align: center;
+    background-color: #023047;
+    color: #fff;
+}
+.font-size{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: italic;
+}
+p{
+    text-align: center;
+    padding: 200px;
+}
